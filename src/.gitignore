@@ -1,0 +1,8 @@
+.qmake*
+.settings.ini
+*.user
+*.swp
+Viewer_v2
+.DS_Store
+*.DS_Store
+.qtc*
